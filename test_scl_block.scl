@@ -2,7 +2,7 @@
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
    VAR_TEMP 
-      TEMP0 : String;
+      TEMP1000 : String;
       TEMP1 : String;
       TEMP3 : String;
       TEMP4 : String;
